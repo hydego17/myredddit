@@ -1,4 +1,6 @@
-# Awesome Project Build with TypeORM
+# MyRedddit REST API
+
+## Awesome Project Build with TypeORM
 
 Steps to run this project:
 
