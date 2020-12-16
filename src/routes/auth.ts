@@ -5,7 +5,7 @@ import jwt from "jsonwebtoken";
 import cookie from "cookie";
 
 import auth from "../middlewares/auth";
-import { User } from "../entities/User";
+import User from "../entities/User";
 
 // Register Route
 const register = async (req: Request, res: Response) => {
